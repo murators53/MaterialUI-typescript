@@ -1,11 +1,5 @@
-# with Tailwind  Nike Ecommerse project Typescript and Redux Toolkit
+# with Material UI with Typescript Responsive Project
 
-## What I Practice
-
- - `react-touch-carousel` component
- -`tailwind` için `line-clamp`
- - For add cart notifications `react-hot-toast` 
- - Lots of tailwind :)
 
 ### `Screen` </br>
 
